@@ -1,0 +1,5 @@
+
+2024-07-02:
+    要对工作台进行新技术改造一下，其中包括可选后缀，适配整理后缀等。
+    当前完成：_contentmenuex_config.py:这里面已经把nametypes加上了
+    接下来工作：对 _contentmenuex.py 引入 PopupWindowGenerator 高级库
