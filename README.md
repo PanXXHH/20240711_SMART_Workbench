@@ -2,7 +2,7 @@
 # 工作台 - SMART
 
 <p align="center">
-<a href="https://github.com/PanXXHH/20240711_SMART_Workbench/actions"><img alt="Unittest" src="https://github.com/PanXXHH/20240711_SMART_Workbench/workflows/Unittest/badge.svg"></a>
+<a href="https://github.com/PanXXHH/20240711_SMART_Workbench/actions"><img alt="Unittest" src="https://github.com/PanXXHH/20240711_SMART_Workbench/blob/main/workflows/Unittest/badge.svg"></a>
 <a href="https://codecov.io/gh/PanXXHH/20240711_SMART_Workbench"><img alt="Coverage Status" src="https://codecov.io/gh/PanXXHH/20240711_SMART_Workbench/branch/master/graph/badge.svg"></a>
 <a href="https://github.com/PanXXHH/20240711_SMART_Workbench/blob/master/LICENSE"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
 <a href="https://github.com/python/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
