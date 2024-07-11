@@ -1,0 +1,10 @@
+out/
+dist/
+node_modules/
+.vscode-test/
+.versions/
+*.vsix
+.建设规划
+.testbox
+.previous
+*.bat
